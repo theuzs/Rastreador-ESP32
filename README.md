@@ -1,6 +1,8 @@
 # Rastreador-ESP32
 Projeto de protótipo de rastreador usando ESP32 
 
+![Uploading image.png…]()
+
 # Material utilizado
 Para fazer o projeto, você precisará somente de um cabo micro-USB e um Módulo WiFi ESP32 com Suporte de Bateria, GPS e LORA 915MHZ. Este módulo já contém o ESP32 e GPS integrados, sendo ideal para o desenvolvimento deste projeto (nenhum circuito adicional será preciso). Além disso, esse módulo ainda conta com suporte para baterias de Li-Ion 18650 e chip para comunicação LoRa, coisas muito úteis em vários projetos ligados à Internet das Coisas.
 
