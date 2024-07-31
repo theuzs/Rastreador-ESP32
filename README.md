@@ -1,7 +1,8 @@
 # Rastreador-ESP32
 Projeto de protótipo de rastreador usando ESP32 
 
-![image](https://github.com/user-attachments/assets/52c6f642-0126-4ca6-b71e-e782538432b5)
+![image](https://github.com/user-attachments/assets/4aece1c8-3287-4ccd-b42b-676e8509015e)
+
 
 
 # Material utilizado
