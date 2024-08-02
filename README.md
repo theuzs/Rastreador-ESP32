@@ -1,10 +1,13 @@
 # Rastreador-ESP32
 Projeto de protótipo de rastreador usando ESP32 
 
+# ZJ®Placa de Desenvolvimento LoRa, Módulo ESP32, DIY, WiFi, Bluetooth, 433MHz, 868MHz, 915MHz, 0, 96 Polegada OLED, SX1276, SX1278, V2.1
+
 ![image](https://github.com/user-attachments/assets/ad371596-af30-4ddc-adb9-9bb1dd1f6a18)
 
 ![image](https://github.com/user-attachments/assets/db3f9bbb-882b-46df-9fe7-14f98eefc57f)
 
+![image](https://github.com/user-attachments/assets/4ecda7d5-56aa-44db-9491-49b33ab8e3cb)
 
 
 # Material utilizado
